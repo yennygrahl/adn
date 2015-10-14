@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  codigo: 1
+  nivel: 1
+  tipo_saldo: MyString
+  imputable: MyString
+  descripcion: MyString
+  padre: MyString
+
+two:
+  codigo: 1
+  nivel: 1
+  tipo_saldo: MyString
+  imputable: MyString
+  descripcion: MyString
+  padre: MyString
